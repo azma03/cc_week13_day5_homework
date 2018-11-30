@@ -26,4 +26,7 @@ const instrumentFamilies = [
   }
 ];
 
-module.exports = instrumentFamilies;
+export default instrumentFamilies;
+
+//ES5 version
+// module.exports = instrumentFamilies;

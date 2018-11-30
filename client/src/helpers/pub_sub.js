@@ -11,4 +11,8 @@ const PubSub = {
   }
 };
 
-module.exports = PubSub;
+export default PubSub;
+
+//ES5 version
+
+// module.exports = PubSub;
